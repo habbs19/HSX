@@ -1,0 +1,6 @@
+@HSX.API_HostAddress = http://localhost:5138
+
+GET {{HSX.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
